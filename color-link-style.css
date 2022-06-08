@@ -1,0 +1,22 @@
+a:link, a:visited {
+    background-color: #f44336;
+    color: blues;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+body {background-image: url('web.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+}
+/*:css註解
+/*未訪問>>a:link
+/*訪問過的>>a:visited
+/*活動連結>>a:active
+/*當鼠標停在上面>>a:hover
