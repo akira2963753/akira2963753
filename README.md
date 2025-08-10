@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate Digital IC Student from Taiwan</h3>
 
-- 🔭 I’m currently studying Electrical Engineering at **NTUST.**
+- 🔭 I’m currently studying Electrical Engineering at **NTUST**.
 
 **
 
