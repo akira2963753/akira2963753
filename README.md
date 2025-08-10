@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate Digital IC Student from Taiwan</h3>
 
-- 🔭 I’m currently study on **NTUST, EE**
+- 🔭 I’m currently studying Electrical Engineering at **NTUST.**
+
+**
 
 - 📫 How to reach me **harry2963753@gmail.com**
 
