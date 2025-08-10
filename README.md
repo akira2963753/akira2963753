@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently studying Electrical Engineering at **NTUST**.
 
-**
-
 - 📫 How to reach me **harry2963753@gmail.com**
 
 - 📄 Know about my experiences 
