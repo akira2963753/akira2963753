@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate Digital IC Student from Taiwan</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a> 
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0b84688c-3f00-463e-9117-4ab6d2e93b0b" />  
   </a> 
