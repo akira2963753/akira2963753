@@ -13,5 +13,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0b84688c-3f00-463e-9117-4ab6d2e93b0b" /> </p> 
+<p align="left"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0b84688c-3f00-463e-9117-4ab6d2e93b0b" /> </p> 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
