@@ -8,8 +8,9 @@
 <p>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akira2963753&show_icons=true&locale=en&theme=tokyonight" alt="akira2963753" />
 </p>  
-   
-</n> 
+
+<br>  
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a> 
