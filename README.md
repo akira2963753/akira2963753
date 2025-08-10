@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate Digital IC Student from Taiwan</h3>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akira2963753&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akira2963753" />  
+</p>  
+
+<p>
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akira2963753&show_icons=true&locale=en&theme=tokyonight" alt="akira2963753" />
+</p>  
+
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a> 
@@ -13,14 +22,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akira2963753&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akira2963753" />  
-</p>  
-
-<p>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akira2963753&show_icons=true&locale=en&theme=tokyonight" alt="akira2963753" />
-</p>  
-
 
