@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate Digital IC Designer from Taiwan</h3>
+<h3 align="center">A passionate Digital IC Student from Taiwan</h3>
+
+- 🔭 I’m currently study on **NTUST, EE**
 
 - 📫 How to reach me **harry2963753@gmail.com**
+
+- 📄 Know about my experiences [___](___)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
