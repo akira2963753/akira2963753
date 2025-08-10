@@ -15,3 +15,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0b84688c-3f00-463e-9117-4ab6d2e93b0b" /> </p> 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akira2963753&show_icons=true&locale=en&layout=compact" alt="akira2963753" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akira2963753&show_icons=true&locale=en" alt="akira2963753" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akira2963753&" alt="akira2963753" /></p>
+
