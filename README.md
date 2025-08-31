@@ -1,7 +1,8 @@
 ### Hi, I'm Marco, A Digital IC Design Student from Taiwan.
 
 ### About Me : 
-
+[Linkedin](www.linkedin.com/in/ming-hong-lin-ab5b7b374)  
+[CV]()
 
 
 
