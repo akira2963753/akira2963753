@@ -1,0 +1,14 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#2d2d2d"/>
+
+  <!-- User Icon -->
+  <circle cx="150" cy="110" r="50" fill="#4a9eff" opacity="0.3"/>
+  <circle cx="150" cy="110" r="40" fill="#4a9eff"/>
+  <path d="M 70 250 Q 70 180, 150 180 Q 230 180, 230 250 Z" fill="#4a9eff"/>
+
+  <!-- Text -->
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="16" fill="#e0e0e0" text-anchor="middle">
+    Profile Photo
+  </text>
+</svg>
